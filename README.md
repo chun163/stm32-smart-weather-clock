@@ -44,5 +44,5 @@
 
 ## 编译说明
 1. 使用 Keil uVision5 打开 `mdk/stm32f103.uvprojx`
-2. 修改 `main.c` 中的 `wifi_ssid` 和 `wifi_password` 为你的实际 WiFi 账号密码
+2. 修改"main.c"中的 `wifi_ssid` 和 `wifi_password` 为您实际 WiFi 账号密码
 3. 编译并下载到 STM32F103
