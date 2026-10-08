@@ -1,5 +1,3 @@
-<img width="1706" height="1279" alt="c3ca56dbd7b8f3312bb927c807d53945" src="https://github.com/user-attachments/assets/3436598e-4e8b-4e7c-940e-691f766f27e9" /># STM32 智能天气时钟
-
 基于 STM32F103 的智能天气时钟，支持 WiFi 联网、实时天气获取、SNTP 网络授时及 OLED 显示。
 
 ##  演示
