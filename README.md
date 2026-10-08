@@ -1,9 +1,10 @@
-# STM32 智能天气时钟
+<img width="1706" height="1279" alt="c3ca56dbd7b8f3312bb927c807d53945" src="https://github.com/user-attachments/assets/3436598e-4e8b-4e7c-940e-691f766f27e9" /># STM32 智能天气时钟
 
 基于 STM32F103 的智能天气时钟，支持 WiFi 联网、实时天气获取、SNTP 网络授时及 OLED 显示。
 
-## 📸 Demo / 演示
-
+##  演示
+<img width="1706" height="1279" alt="c3ca56dbd7b8f3312bb927c807d53945" src="https://github.com/user-attachments/assets/bd0126ce-9fc5-45c8-97b0-6b0d0c4229a4" />
+<img width="1706" height="1279" alt="e5f28734cd454ec635a1cfb5cbb481c8" src="https://github.com/user-attachments/assets/23ae6b04-e00a-4950-bf88-ec79e0672460" />
 
 ## 功能特性
 - 支持 ESP-AT 指令集，通过 ESP32-C3 连接 WiFi
